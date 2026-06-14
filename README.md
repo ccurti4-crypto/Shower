@@ -1,5 +1,5 @@
-# Shower
+# MY SHOWER
 My Shower 
 
-## Video
+## PERFORMANCE VIDEO
 [Watch the video](https://youtu.be/bOV1Ir5nuu0)
