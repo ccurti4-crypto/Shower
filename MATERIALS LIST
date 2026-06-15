@@ -1,0 +1,10 @@
+##Audio Amplifier and Microphone
+
+#Amplifier
+
+- LM386 Chip
+- 10uf polarized capacitor
+- 220uf polarized capacitor 
+- capacitor ceramic (104)
+- 10k Potentiometer
+- 20ohm resistor 
